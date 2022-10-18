@@ -7,6 +7,7 @@
       - [Class 02](#class-02)
       - [Class 03](#class-03)
       - [Class 05](#class-05)
+      - [Class 06](#class-06)
 
 ## Python
 
@@ -19,3 +20,5 @@
 #### [Class 03](python/code_challenges/class-03-array-binary-search/README.md)
 
 #### [Class 05](python/data_structures/linked_list/README.md)
+
+#### [Class 06](python/code_challenges/class-06-linked-list-insertions/README.md)
