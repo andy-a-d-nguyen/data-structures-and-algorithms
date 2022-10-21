@@ -10,7 +10,16 @@ The whiteboard process was done with Daniel Brott and Natalija Germek.
 
 
 ## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+
+Our approach to the solution during the whiteboard process was that we would first find out the length of the linked
+list by traversing through it. Then, if k is greater than or equal to the length or smaller than 0, we know k is an
+invalid number, and we throw an exception. Then, we create a pointer to the head and iterate from 1 to the length of
+the linked list subtracted by k moving to pointer to its next node in the process. Finally, we return the pointer's
+value.
+
+Time complexity: O(N)
+
+Space complexity: O(1)
 
 ## Solution
 
@@ -45,3 +54,7 @@ To deactivate the virtual environment:
 ```bash
 deactivate
 ```
+
+### Link to Code
+
+[Link to Code](../../data_structures/linked_list/linked_list.py)
