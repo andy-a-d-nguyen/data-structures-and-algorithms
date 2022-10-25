@@ -6,11 +6,11 @@ Write a function `zip_lists` that takes two linked lists and zip the two linked 
 
 The whiteboard process was done with Daniel Brott and Natalija Germek.
 
+![Linked List Zip](linked_list_zip.jpg)
+
 ## Approach & Efficiency
 
-We whiteboarded a rough idea of what the algorithm would look like and then used visualizations to guide us toward a
-concrete implementation. Through the visualizations, we were able to distinguish the zipping of the nodes versus the
-moving of our pointers to the next nodes.
+We whiteboarded a rough idea of what the algorithm would look like and then used visualizations to guide us toward a concrete implementation. Through the visualizations, we were able to distinguish the zipping of the nodes versus the moving of our pointers to the next nodes.
 
 Time Complexity: O(N)
 
@@ -53,4 +53,3 @@ deactivate
 ### Link to Code
 
 [Link to Code](../linked_list_zip.py)
-
