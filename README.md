@@ -9,6 +9,7 @@
       - [Class 05](#class-05)
       - [Class 06](#class-06)
       - [Class 07](#class-07)
+      - [Class 08](#class-08)
 
 ## Python
 
@@ -25,3 +26,5 @@
 #### [Class 06](python/code_challenges/class-06-linked-list-insertions/README.md)
 
 #### [Class 07](python/code_challenges/class-07-linked-list-kth/README.md)
+
+#### [Class 08](python/code_challenges/class-08-linked-list-zip/README.md)
