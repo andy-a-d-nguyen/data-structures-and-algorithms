@@ -1,3 +1,6 @@
+from data_structures.node import Node
+
+
 class LinkedList:
     def __init__(self):
         self.head = None
@@ -85,12 +88,6 @@ class LinkedList:
             temp = temp.next_node
 
         return temp.value
-
-
-class Node:
-    def __init__(self, value, next_node=None):
-        self.value = value
-        self.next_node = next_node
 
 
 class TargetError(Exception):

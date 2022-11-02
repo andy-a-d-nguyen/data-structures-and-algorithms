@@ -10,6 +10,7 @@
       - [Class 06](#class-06)
       - [Class 07](#class-07)
       - [Class 08](#class-08)
+      - [Class 09](#class-09)
 
 ## Python
 
@@ -28,3 +29,5 @@
 #### [Class 07](python/code_challenges/class-07-linked-list-kth/README.md)
 
 #### [Class 08](python/code_challenges/class-08-linked-list-zip/README.md)
+
+#### [Class 09](python/data_structures/stack_and_queue/README.md)
