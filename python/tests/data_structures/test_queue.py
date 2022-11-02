@@ -1,5 +1,5 @@
 import pytest
-from data_structures.queue import Queue
+from data_structures.stack_and_queue.queue import Queue
 from data_structures.invalid_operation_error import InvalidOperationError
 
 
