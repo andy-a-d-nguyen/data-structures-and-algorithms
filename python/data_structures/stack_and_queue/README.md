@@ -54,8 +54,7 @@ Queue:
 
 - `enqueue`: Adds a new node with that value to the back of the queue with an O(1) Time performance
 - `dequeue`: Removes the node from the front of the queue and returns the value from node from the front of the queue. Throws exception when called on an empty queue
-- `peek`: Returns the value of the node located at the front of the queue. Raises exception when called on an empty
-  queue
+- `peek`: Returns the value of the node located at the front of the queue. Raises exception when called on an empty queue
 - `is_empty`: Returns boolean indicating whether the queue is empty
 
 ## Setup
