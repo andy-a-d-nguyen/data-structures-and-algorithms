@@ -11,6 +11,7 @@
       - [Class 07](#class-07)
       - [Class 08](#class-08)
       - [Class 09](#class-09)
+      - [Class 11](#class-11)
 
 ## Python
 
@@ -31,3 +32,5 @@
 #### [Class 08](python/code_challenges/class-08-linked-list-zip/README.md)
 
 #### [Class 09](python/data_structures/stack_and_queue/README.md)
+
+#### [Class 11](python/code_challenges/class-11-stack-queue-pseudo/README.md)
