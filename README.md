@@ -13,6 +13,7 @@
       - [Class 09](#class-09)
       - [Class 11](#class-11)
       - [Class 12](#class-12)
+      - [Class 13](#class-13)
 
 ## Python
 
@@ -37,3 +38,5 @@
 #### [Class 11](python/code_challenges/class-11-stack-queue-pseudo/README.md)
 
 #### [Class 12](python/code_challenges/class-12-stack-queue-animal-shelter/README.md)
+
+#### [Class 13](python/code_challenges/class-13-stack-queue-brackets/README.md)
