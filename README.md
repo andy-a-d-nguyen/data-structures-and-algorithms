@@ -14,6 +14,7 @@
       - [Class 11](#class-11)
       - [Class 12](#class-12)
       - [Class 13](#class-13)
+      - [Class 15](#class-15)
 
 ## Python
 
@@ -40,3 +41,5 @@
 #### [Class 12](python/code_challenges/class-12-stack-queue-animal-shelter/README.md)
 
 #### [Class 13](python/code_challenges/class-13-stack-queue-brackets/README.md)
+
+#### [Class 15](python/data_structures/binary_tree_and_BST/README.md)
