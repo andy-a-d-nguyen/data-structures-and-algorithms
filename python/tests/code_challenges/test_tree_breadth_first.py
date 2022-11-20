@@ -1,5 +1,6 @@
 import pytest
-from data_structures.binary_tree import BinaryTree, Node
+from data_structures.binary_tree_and_BST.binary_tree import BinaryTree
+from data_structures.binary_tree_and_BST.tree_node import Node
 from code_challenges.tree_breadth_first import breadth_first
 
 
