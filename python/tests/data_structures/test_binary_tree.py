@@ -46,39 +46,6 @@ def test_tree_single_root_node():
     assert tree.root.right.right is None
 
 
-def test_find_maxi_value_no_root():
-    tree = BinaryTree()
-    assert tree.find_max_value() is None
-
-
-def test_find_max_value_numeric():
-    tree = BinaryTree()
-    tree.root = Node(2)
-    tree.root.left = Node(7)
-    tree.root.right = Node(5)
-    tree.root.left.left = Node(2)
-    tree.root.left.right = Node(6)
-    tree.root.left.right.left = Node(5)
-    tree.root.left.right.right = Node(11)
-    tree.root.right.right = Node(9)
-    tree.root.right.right.left = Node(4)
-    assert tree.find_max_value() == 11
-
-
-def test_find_max_value_non_numeric():
-    tree = BinaryTree()
-    tree.root = Node(2)
-    tree.root.left = Node('7')
-    tree.root.right = Node(5)
-    tree.root.left.left = Node(2)
-    tree.root.left.right = Node('6')
-    tree.root.left.right.left = Node(5.5)
-    tree.root.left.right.right = Node(11)
-    tree.root.right.right = Node(9)
-    tree.root.right.right.left = Node('four')
-    assert tree.find_max_value() == 11
-
-
 @pytest.fixture
 def tree():
     """

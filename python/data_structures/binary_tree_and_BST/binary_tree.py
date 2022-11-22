@@ -26,7 +26,7 @@ class BinaryTree:
         post_order_helper(self.root, result)
         return result
 
-    def find_max_value(self):
+    def find_maximum_value(self):
         if self.root is None:
             return None
         else:
