@@ -15,6 +15,7 @@
       - [Class 12](#class-12)
       - [Class 13](#class-13)
       - [Class 15](#class-15)
+      - [Class 16](#class-16)
 
 ## Python
 
@@ -43,3 +44,5 @@
 #### [Class 13](python/code_challenges/class-13-stack-queue-brackets/README.md)
 
 #### [Class 15](python/data_structures/binary_tree_and_BST/README.md)
+
+#### [Class 16](python/code_challenges/class-16-tree-max/README.md)
