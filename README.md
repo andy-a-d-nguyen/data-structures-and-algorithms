@@ -17,6 +17,7 @@
       - [Class 15](#class-15)
       - [Class 16](#class-16)
       - [Class 17](#class-17)
+      - [Class 18](#class-18)
 
 ## Python
 
@@ -49,3 +50,5 @@
 #### [Class 16](python/code_challenges/class-16-tree-max/README.md)
 
 #### [Class 17](python/code_challenges/class-17-tree-breadth-first/README.md)
+
+#### [Class 18](python/code_challenges/class-18-tree-fizz-buzz/README.md)
